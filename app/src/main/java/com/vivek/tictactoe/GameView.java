@@ -23,7 +23,7 @@ import java.util.logging.Handler;
  * Created by android2 on 27/7/16.
  */
 public class GameView extends View {
-
+//hkhkh
     public static final long FPS_MS = 1000/2;
 
     public enum State {
